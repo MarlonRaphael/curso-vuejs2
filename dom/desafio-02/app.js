@@ -5,13 +5,10 @@ new Vue({
     },
     methods: {
         exibirAlerta() {
-            alert('Estou te alertando!');
+            alert('Estou alertando agora!')
         },
-        armzenaValor( event ) {
-            this.valor = event.target.value;
-        },
-        alteraValor( event ) {
-            this.valor = event.target.value;
+        alterarValor(event) {
+            this.valor = event.target.value
         }
     }
-});
+})

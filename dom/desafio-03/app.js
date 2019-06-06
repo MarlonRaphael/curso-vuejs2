@@ -5,15 +5,14 @@ new Vue({
     },
     computed: {
         resultado() {
-            return this.valor == 37 ?
-                'Valor Igual' : 'Valor Diferente';
+            return this.valor == 37 ? 'Valor Igual' : 'Valor Diferente'
         }
     },
     watch: {
-        resultado(novo, antigo) {
+        resultado() {
             setTimeout(() => {
-                this.valor = 0;
-            }, 2000);
+                this.valor = 0
+            }, 5000)
         }
     }
-});
+})

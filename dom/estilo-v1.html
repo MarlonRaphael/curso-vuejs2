@@ -1,5 +1,4 @@
-<script src="https://unpkg.com/vue/dist/vue.js"></script>
-
+<script src="https://unpkg.com/vue"></script>
 <style>
     #app {
         display: flex;
@@ -9,7 +8,6 @@
     .demo {
         width: 100px;
         height: 100px;
-        display: flex;
         background-color: gray;
     }
 
@@ -27,9 +25,10 @@
 </style>
 
 <div id="app">
-<!--    <div class="demo" :class="{'cor-1': aplicarC1}" @click="aplicarC1 = !aplicarC1"></div>-->
-    <div class="demo" :class="{c1: aplicarC1}"></div>
-    <div class="demo" :class=""></div>
+    <div class="demo" :class="{c1: aplicarC1}"
+        @click="aplicarC1 = !aplicarC1"></div>
+    <div class="demo"></div>
+    <div class="demo"></div>
 </div>
 
 <script>
@@ -38,5 +37,5 @@
         data: {
             aplicarC1: false
         }
-    });
+    })
 </script>

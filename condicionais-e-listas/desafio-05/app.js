@@ -1,7 +1,8 @@
 new Vue({
 	el: '#desafio',
 	data: {
-		array: ['Pedro', 'Bia', 'Ana', 'Rebeca'],
+		expressao: true,
+		nomes: ['Ana', 'Rafa', 'Lucas', 'Gui'],
 		livro: {
 			titulo: 'O Senhor dos Anéis',
 			autor: 'J.R.R. Tolkiens',
@@ -11,8 +12,6 @@ new Vue({
 			id: 10,
 			nome: 'Maria',
 			notas: [7.67, 8.33, 6.98, 9.21]
-		},
-		tecnologias: ['HTML5', 'CSS3', 'JAVASCRIPT', 'PHP', 'MYSQL', 'DOCKER', 'GIT'],
-		alternar: false
+		}
 	}
 });

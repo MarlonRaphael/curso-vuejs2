@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 <div id="app">
     <p>{{ titulo }}</p>
@@ -9,12 +9,13 @@
     new Vue({
         el: '#app',
         data: {
-            titulo: 'Usando VueJS'
+            titulo: 'Usando VueJS!'
         },
         methods: {
             saudacao: function() {
-                return this.titulo;
+                console.log(this)
+                return this.titulo
             }
         }
-    });
+    })
 </script>
