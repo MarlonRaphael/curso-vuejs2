@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+
+<!-- versão de produção, otimizada para tamanho e velocidade -->
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<div id="app">
+    {{ titulo }}
+    <button type="button" @click="alterar">Alterar</button>
+</div>
+
+<script>
+    const vm = new Vue({
+        el: '#app',
+        data: {
+            titulo: 'Teste 1'
+        },
+        methods: {
+            alterar() {
+                this.titulo += '!'
+            }
+        }
+    });
+</script>
