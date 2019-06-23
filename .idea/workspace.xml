@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d44b9dbf-1a00-496a-9ecb-49fe1980177f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/componentes/revisao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/componentes/componente-desafio/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/componente-desafio/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/componentes/componente-intro/src/Contador/Contador.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/componente-intro/src/Contador/Contador.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/componentes/componente-intro/src/Contadores/Contadores.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/componente-intro/src/Contadores/Contadores.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-plugins/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-simples" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-simples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-simples/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-simples/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/projeto-simples/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/projeto-simples/src/App.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +34,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/componentes/revisao.html">
+        <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#60#97#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +86,15 @@
         <option value="$PROJECT_DIR$/instancia-vue/componente-vue.html" />
         <option value="$PROJECT_DIR$/instancia-vue/instancia-vue-ciclo-vida.html" />
         <option value="$PROJECT_DIR$/componentes/revisao.html" />
+        <option value="$PROJECT_DIR$/componentes/componente-intro/src/main.js" />
+        <option value="$PROJECT_DIR$/componentes/componente-intro/src/Contadores/Contadores.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-intro/src/App.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-intro/src/Contador/Contador.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-desafio/src/Toolbar/Toolbar.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-desafio/src/Footer/Footer.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-desafio/src/Navbar/Navbar.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-desafio/src/Carousel/Carousel.vue" />
+        <option value="$PROJECT_DIR$/componentes/componente-desafio/src/App.vue" />
       </list>
     </option>
   </component>
@@ -96,6 +123,27 @@
               <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
               <item name="componentes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="componente-desafio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="componente-desafio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="componente-desafio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,6 +163,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\curso-vue\componentes\componente-desafio\src\components\widgets" />
+      <recent name="C:\xampp\htdocs\curso-vue\componentes\componente-desafio\src\components\template" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\curso-vue\projeto-01-monstro" />
       <recent name="C:\xampp\htdocs\curso-vue\condicionais-e-listas" />
@@ -156,12 +208,12 @@
       <workItem from="1560947745849" duration="1260000" />
       <workItem from="1561057739055" duration="1984000" />
       <workItem from="1561153038868" duration="1010000" />
-      <workItem from="1561216933503" duration="5882000" />
+      <workItem from="1561216933503" duration="12789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36532000" />
+    <option name="totallyTimeSpent" value="43439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
@@ -180,7 +232,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34560907" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -393,8 +445,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/componentes/revisao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="312">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-intro/src/Contador/Contador.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-intro/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-intro/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/components/template/Footer/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#118#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-intro/src/Contadores/Contadores.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/components/template/Toolbar/Toolbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/components/template/Navbar/Navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/components/widgets/Carousel/Carousel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/componente-desafio/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#60#97#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
