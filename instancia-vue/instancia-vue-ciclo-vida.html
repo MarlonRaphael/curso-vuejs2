@@ -1,7 +1,5 @@
 <meta charset="UTF-8">
-
-<!-- versão de produção, otimizada para tamanho e velocidade -->
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://unpkg.com/vue"></script>
 
 <div id="app">
     <h1>{{ titulo }}</h1>
@@ -13,31 +11,31 @@
     new Vue({
         el: '#app',
         data: {
-            titulo: 'Ciclo de vida',
+            titulo: 'Ciclo de Vida'
         },
         beforeCreate() {
-            console.log('Antes de criar');
+            console.log('Antes de Criar')
         },
         created() {
-            console.log('Criado');
+            console.log('Criado')
         },
         beforeMount() {
-            console.log('Antes de montar (DOM)');
+            console.log('Antes de Montar (DOM)')
         },
         mounted() {
             console.log('DOM Montada')
         },
         beforeUpdate() {
-            console.log('Antes de Atualizar');
+            console.log('Antes de Atualizar')
         },
         updated() {
-            console.log('Atualizando');
+            console.log('Atualizado')
         },
         beforeDestroy() {
-            console.log('Antes de destruir');
+            console.log('Antes de destruir')
         },
         destroyed() {
-            console.log('Destruido');
+            console.log('Destruido')
         }
-    });
+    })
 </script>

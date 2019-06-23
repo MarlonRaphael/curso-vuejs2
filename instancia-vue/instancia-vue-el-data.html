@@ -1,12 +1,11 @@
 <meta charset="UTF-8">
-
-<!-- versão de produção, otimizada para tamanho e velocidade -->
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://unpkg.com/vue"></script>
 
 <div id="app">
     {{ titulo }}
-    <button type="button" @click="alterar">Alterar</button>
+    <button @click="alterar">Alterar</button>
 </div>
+
 
 <script>
     const vm = new Vue({
@@ -19,5 +18,5 @@
                 this.titulo += '!'
             }
         }
-    });
+    })
 </script>

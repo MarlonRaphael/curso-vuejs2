@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d44b9dbf-1a00-496a-9ecb-49fe1980177f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/instancia-vue/componente-vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/instancia-vue-ciclo-vida.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/instancia-vue-dados-gerenciados.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/instancia-vue-el-data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/instancia-vue-externa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/instancia-vue-refs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/meu-vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/montando-instancia-vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instancia-vue/multi-instancia-vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentes/revisao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +17,12 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/instancia-vue/instancia-vue-ciclo-vida.html">
+        <entry file="file://$PROJECT_DIR$/componentes/revisao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="476">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -75,15 +67,16 @@
         <option value="$PROJECT_DIR$/instancia-vue/montando-instancia-vue.html" />
         <option value="$PROJECT_DIR$/instancia-vue/componente-vue.html" />
         <option value="$PROJECT_DIR$/instancia-vue/instancia-vue-ciclo-vida.html" />
+        <option value="$PROJECT_DIR$/componentes/revisao.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="1910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,19 +94,20 @@
             <path>
               <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
-              <item name="instancia-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/projeto-01-monstro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -159,18 +152,22 @@
       <workItem from="1559828577807" duration="817000" />
       <workItem from="1559945091626" duration="86000" />
       <workItem from="1560103926607" duration="5616000" />
-      <workItem from="1560110299330" duration="3279000" />
+      <workItem from="1560110299330" duration="4055000" />
+      <workItem from="1560947745849" duration="1260000" />
+      <workItem from="1561057739055" duration="1984000" />
+      <workItem from="1561153038868" duration="1010000" />
+      <workItem from="1561216933503" duration="5882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25620000" />
+    <option name="totallyTimeSpent" value="36532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28255033" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22013423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,7 +180,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34560907" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -279,13 +276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/condicionais-e-listas/condicionais-v1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -389,8 +379,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/instancia-vue/instancia-vue-ciclo-vida.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state relative-caret-position="318">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/condicionais-e-listas/condicionais-v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/componentes/revisao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>

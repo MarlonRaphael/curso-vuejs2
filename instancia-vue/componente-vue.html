@@ -1,7 +1,5 @@
 <meta charset="UTF-8">
-
-<!-- versão de produção, otimizada para tamanho e velocidade -->
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://unpkg.com/vue"></script>
 
 <div id="app">
     <comp></comp>
@@ -10,37 +8,32 @@
 </div>
 
 <script>
-    // const dados = {
-    //     aula: 'Aula: Montando Instância Vue',
-    //     modulo: 'Módulo: Instância vue'
-    // };
-
     Vue.component('comp', {
         template: `
             <div>
                 <h1>{{ aula }}</h1>
                 <h2>{{ modulo }}</h2>
-                <button @click="alterarAula">Alterar aula</button>
-                <button @click="alterarModulo">Alterar módulo</button>
+                <button @click="alterarAula">Alterar Aula</button>
+                <button @click="alterarModulo">Alterar Módulo</button>
             </div>
         `,
-        data: function () {
+        data: function() {
             return {
                 aula: 'Aula: Montando Instância Vue',
-                modulo: 'Módulo: Instância vue'
-            };
+                modulo: 'Módulo: Instância Vue'
+            }
         },
         methods: {
             alterarAula() {
-                this.aula += '#';
+                this.aula += '#'
             },
             alterarModulo() {
-                this.modulo += '#';
+                this.modulo += '#'
             }
         }
-    });
+    })
 
     const vm = new Vue({
         el: '#app'
-    });
+    })
 </script>

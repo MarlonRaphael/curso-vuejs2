@@ -1,13 +1,11 @@
 <meta charset="UTF-8">
-
-<!-- versão de produção, otimizada para tamanho e velocidade -->
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://unpkg.com/vue"></script>
 
 <div id="app">
     <h1 ref="aulaRef">{{ aula }}</h1>
     <h2>{{ modulo }}</h2>
-    <button @click="alterarAula">Alterar aula</button>
-    <button @click="alterarModulo">Alterar módulo</button>
+    <button @click="alterarAula">Alterar Aula</button>
+    <button @click="alterarModulo">Alterar Módulo</button>
 </div>
 
 <script>
@@ -15,17 +13,18 @@
         el: '#app',
         data: {
             aula: 'Aula: Usando Refs',
-            modulo: 'Módulo: Instância vue'
+            modulo: 'Módulo: Instância Vue'
         },
         methods: {
             alterarAula() {
-                this.aula += '#';
+                this.aula += '#'
             },
             alterarModulo() {
-                this.modulo += '#';
+                this.modulo += '#'
+                console.log(this.$ref.aulaRef.innerText)
             }
         }
-    });
+    })
 
-    vm.$refs.aulaRef.innerText = 'Alterado diretamente :(';
+    vm.$refs.aulaRef.innerText = 'Alterado diretamente :('
 </script>
