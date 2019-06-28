@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d44b9dbf-1a00-496a-9ecb-49fe1980177f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/componentes/componente-desafio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/componente-desafio/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/componentes/componente-desafio/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/componente-desafio/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/componentes/comunicacao/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/comunicacao/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/componentes/comunicacao/src/components/Usuario.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/comunicacao/src/components/Usuario.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/componentes/comunicacao/src/components/UsuarioInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/comunicacao/src/components/UsuarioInfo.vue" afterDir="false" />
-    </list>
+    <list default="true" id="d44b9dbf-1a00-496a-9ecb-49fe1980177f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/Usuario.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="42" />
-              <folding>
-                <element signature="e#359#401#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/UsuarioInfo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -41,6 +32,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/UsuarioEditar.vue">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/Usuario.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -115,8 +115,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="curso-vuejs2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="curso-vuejs2" type="462c0819:PsiDirectoryNode" />
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="comunicacao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,13 +215,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50653000" />
+    <option name="totallyTimeSpent" value="50775000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23355705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -532,18 +547,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/Usuario.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="42" />
-          <folding>
-            <element signature="e#359#401#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/componentes/comunicacao/src/components/UsuarioInfo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
