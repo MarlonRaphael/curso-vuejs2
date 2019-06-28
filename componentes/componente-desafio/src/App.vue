@@ -16,6 +16,6 @@
 	import Footer from '@/components/template/Footer/Footer';
 
     export default {
-        components: { Navbar, Toolbar, Carousel, Footer, }
+        components: { Navbar, Toolbar, Carousel, Footer }
     }
 </script>
